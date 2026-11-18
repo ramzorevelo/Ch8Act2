@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+Lab[0-9]/
+*.user
+*.aps
+*.ipch
+Ch8Activity2/
