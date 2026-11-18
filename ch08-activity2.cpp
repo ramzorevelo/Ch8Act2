@@ -65,7 +65,8 @@ void inorder(const TreeNode<int>* t)
 
 void postorder([[maybe_unused]] const TreeNode<int>* t)
 {
-    // TODO 2: copy preorder's body here, then move the // visit line to after the two calls
+    // TODO 2: copy preorder's body here, change its two calls to postorder,
+    //         then move the // visit line to after the two calls
 }
 
 void levelOrder(const TreeNode<int>* root)
